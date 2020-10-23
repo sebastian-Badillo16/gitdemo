@@ -1,2 +1,3 @@
 # gitdemo
-proyecto de prueba de dit 
+proyecto de prueba de git 
+realizado por andres badillo
